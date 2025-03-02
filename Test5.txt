@@ -1,1 +1,1 @@
-Test Case 5
+Test Case 5. Added some file to learn Git with VS Code.
